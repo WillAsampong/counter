@@ -1,5 +1,5 @@
 # counter
-Counter App
+
 The Counter App is a simple web application that allows users to increment or decrement a counter value. The app is built with HTML, CSS, and JavaScript.
 
 Installation
